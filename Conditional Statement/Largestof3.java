@@ -7,11 +7,11 @@ public class Largestof3 {
         int C = 6;
 
         if((A>=B)&&(A>=C)){ 
-            System.out.println("A");
+            System.out.println("largest is A");
         }else if(B>=C){
-            System.out.println("B");
+            System.out.println("largest is B");
         }else{
-            System.out.println("C");
+            System.out.println("largest is C");
         }
     }
 }
