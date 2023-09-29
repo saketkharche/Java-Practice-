@@ -7,7 +7,7 @@ public class Q2 {
             System.out.println("ypu have fever");
             
         }else{
-            System.out.println("You don't have a fever");
+            System.out.println("You don't have a fever. ");
         }
     }
 }
