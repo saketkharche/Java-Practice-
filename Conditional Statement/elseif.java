@@ -1,7 +1,9 @@
+import java.util.Scanner;
 
 public class elseif {
     public static void main(String[] args) {
-        int age = 13;
+        Scanner sc = new Scanner(System.in);
+        int age = sc.nextInt();
 
         if (age >= 18) {
             System.out.println("adult");
