@@ -5,7 +5,6 @@ public class Q4 {
         System.out.println(x);
 
         int y = (a > b) ? a : b;
-        System.out.println(y);
-
+        System.out.println();
     }
 }

@@ -6,6 +6,6 @@ public class Q4 {
 
         int y = (a > b) ? a : b;
         System.out.println(y);
-
+        
     }
 }
