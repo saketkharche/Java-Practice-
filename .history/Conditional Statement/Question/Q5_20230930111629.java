@@ -13,7 +13,7 @@ public class Q5 {
             System.out.println(year + "\nis a leap year");
 
         } else {
-            System.out.println(year + "\nis not a leap year");
+            System.out.println(year + "is not a leap year");
 
         }
 
