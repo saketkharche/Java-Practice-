@@ -6,17 +6,16 @@ public class Pattern {
         // while (line <= 4) {
         // System.out.println("****");
         // line++;
-        // }
-        /*
-         * rectangle
-         * int size = 5;
-         * for(int i =0; i<size;i++){
-         * for(int j=0;j<size;j++){
-         * System.out.print("*");
-         * }
-         * System.out.println("");
-         * }
-         */
 
-    }
+        // }
+        int size = 5;
+        for (int i = 0; i < size; i++) {    
+
+            System.out.println("*");
+        
+        for (int j = 0; j < ; j++) {
+            System.out.println("*");
+            }
+        }
+}
 }
