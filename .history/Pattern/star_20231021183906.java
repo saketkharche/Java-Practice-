@@ -3,7 +3,7 @@ public class star {
     public static void main(String[] args) {
 
         // for (int line = 1; line <= 10; line++) {
-        // one line
+        // // one line
         // for (int star = 1; star <= line; star++) {
         // System.out.print("*");
         // }
@@ -11,12 +11,10 @@ public class star {
         // }
 
         // Inverted star pattern
-        int n = 5;
-        for (int line = 1; line <= n; line++) {
-            for (int star = 1; star <= n - line + 1; star++) {
+        for (int line = 1; line <= 4; line++) {
+            for (int star = 1; star <= line - line + 1; star++) {
                 System.out.print("*");
             }
-            System.out.println();
         }
     }
 }
