@@ -7,10 +7,10 @@ public class function {
         return;
     }
 
-    public static void calsum(int num1, int num2) {
+    public static void calsum(int a, int b) {
 
-        int sum = num1 + num2;
-        System.out.println("Sum of numbers is:" + sum);
+        int sum = a + b;
+        System.out.println("Sum of two numbers is:" + sum);
     }
 
     public static void main(String[] args) {
@@ -18,6 +18,6 @@ public class function {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
-        calsum(a,b);
+        calsum();
     }
 }

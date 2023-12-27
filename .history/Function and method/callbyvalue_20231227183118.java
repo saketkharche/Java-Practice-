@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class function {
+public class callbyvalue {
     // function using void
     public static void printhelloworld() {
         System.out.println("Hello world!!!");
@@ -13,11 +13,15 @@ public class function {
         System.out.println("Sum of numbers is:" + sum);
     }
 
+    public static swap(int a, int b){
+
+    }
     public static void main(String[] args) {
-        // printhelloworld();// this is function call
-        Scanner sc = new Scanner(System.in);
-        int a = sc.nextInt();
-        int b = sc.nextInt();
-        calsum(a,b);
+        //Swap - values exchange
+        int a = 5;
+        int b = 10;
+
+        //temp
+        
     }
 }

@@ -7,9 +7,9 @@ public class function {
         return;
     }
 
-    public static void calsum(int num1, int num2) {
+    public static void calsum(int n, int b) {
 
-        int sum = num1 + num2;
+        int sum = a + b;
         System.out.println("Sum of numbers is:" + sum);
     }
 
@@ -18,6 +18,6 @@ public class function {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
-        calsum(a,b);
+        calsum();
     }
 }

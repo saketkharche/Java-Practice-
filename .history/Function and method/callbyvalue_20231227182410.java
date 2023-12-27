@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class function {
+public class callbyvalue {
     // function using void
     public static void printhelloworld() {
         System.out.println("Hello world!!!");
