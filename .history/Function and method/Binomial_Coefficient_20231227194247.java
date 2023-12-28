@@ -1,4 +1,4 @@
-public class factorial {
+public class Binomial_Coefficient {
     public static int factorial(int n) {
         int f = 1;
         for (int i = 1; i <= n; i++) {
@@ -8,7 +8,9 @@ public class factorial {
         return f;
     }
 
+    p
     public static void main(String[] args) {
-        System.out.println(factorial(4));
+        
     }
+    
 }
