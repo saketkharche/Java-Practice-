@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "primeopti",
+      "request": "launch",
+      "mainClass": "primeopti",
+      "projectName": "Java-Practice-_85204cc4"
+    },
+    {
+      "type": "java",
       "name": "function_overloading",
       "request": "launch",
       "mainClass": "function_overloading",

@@ -1,6 +1,3 @@
-/**
- * The "primeopti" class in Java checks if a given number is prime or not.
- */
 public class primeopti {
     public static boolean isprime(int n) {
         if (n == 2) {

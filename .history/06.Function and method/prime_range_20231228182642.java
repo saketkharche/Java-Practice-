@@ -1,7 +1,4 @@
-/**
- * The "primeopti" class in Java checks if a given number is prime or not.
- */
-public class primeopti {
+public class prime_range {
     public static boolean isprime(int n) {
         if (n == 2) {
             return true;
@@ -15,7 +12,17 @@ public class primeopti {
         return true;
     }
 
+    public static void PrimeinRange(int n) {
+        for (int i = 2; i <= n; i++) {
+            if (isprime(i)) {
+                System.out.println(i + "");
+
+            }
+        }
+        System.out.println();
+    }
+
     public static void main(String[] args) {
-        System.out.println(isprime(15));
+        PrimeinRange(20)
     }
 }

@@ -10,10 +10,9 @@
     "editor.codeActionsOnSave": {
       "editor.defaultFormatter": "mwpb.java-prettier-formatter"
     },
-    "docwriter.progress.trackMethods": true,
-    "docwriter.progress.trackTypes": true,
-    "docwriter.progress.trackClasses": true,
-    "docwriter.progress.trackFunctions": true,
-    "docwriter.style": "Javadoc"
+    "docwriter.progress.trackMethods": false,
+    "docwriter.progress.trackTypes": false,
+    "docwriter.progress.trackClasses": false,
+    "docwriter.progress.trackFunctions": false
   }
 }
