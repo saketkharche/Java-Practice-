@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "avg_of_three_num",
+      "request": "launch",
+      "mainClass": "Question.avg_of_three_num",
+      "projectName": "Java-Practice-_85204cc4"
+    },
+    {
+      "type": "java",
       "name": "DecToBin",
       "request": "launch",
       "mainClass": "DecToBin",
