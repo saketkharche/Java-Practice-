@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "gitdoc.enabled": false,
+    "cSpell.enabled": true,
+    "editor.codeActionsOnSave": {
+      "editor.defaultFormatter": "mwpb.java-prettier-formatter"
+    },
+    "docwriter.progress.trackMethods": true,
+    "docwriter.progress.trackTypes": true,
+    "docwriter.progress.trackClasses": true,
+    "docwriter.progress.trackFunctions": true,
+    "docwriter.style": "Javadoc",
+    "hts.path.correctSolution": "C:\\Interview\\Alpha Coding\\Java-Practice-\\06.Function and method\\Question\\avg_of_three_num.java"
+  }
+}

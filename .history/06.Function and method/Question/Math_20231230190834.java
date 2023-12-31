@@ -1,0 +1,7 @@
+/**
+ * Math
+ */
+public class Math {
+
+    
+}
