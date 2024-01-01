@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "half_pyramid",
+      "request": "launch",
+      "mainClass": "half_pyramid",
+      "projectName": "Java-Practice-_85204cc4"
+    },
+    {
+      "type": "java",
+      "name": "MyJavaFXApp",
+      "request": "launch",
+      "mainClass": "MyJavaFXApp",
+      "projectName": "Java-Practice-_85204cc4"
+    },
+    {
+      "type": "java",
+      "name": "Hollow_rectangle",
+      "request": "launch",
+      "mainClass": "Hollow_rectangle",
+      "projectName": "Java-Practice-_85204cc4"
+    },
+    {
+      "type": "java",
       "name": "MathOperations",
       "request": "launch",
       "mainClass": "MathOperations",
