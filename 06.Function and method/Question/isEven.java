@@ -27,7 +27,7 @@ public class isEven {
      * This function takes input from the user and determines whether the input
      * number is even or odd.
      *
-     * @param args an array of String arguments from the command line
+     * @param //args an array of String arguments from the command line
      */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
